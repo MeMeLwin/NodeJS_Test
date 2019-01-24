@@ -1,0 +1,23 @@
+{
+  "name": "Nodejs_Test",
+  "version": "1.0.0",
+  "description": "Node JS Test with youtube video player",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeMeLwin/Nodejs_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeMeLwin/Nodejs_Test/issues"
+  },
+  "homepage": "https://github.com/MeMeLwin/Nodejs_Test#readme"
+}
